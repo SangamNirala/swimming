@@ -1,0 +1,21 @@
+{
+  "total_visualized": 20,
+  "by_split": {
+    "train": {
+      "swimming": 20,
+      "drowning": 0
+    },
+    "val": {
+      "swimming": 0,
+      "drowning": 0
+    },
+    "test": {
+      "swimming": 0,
+      "drowning": 0
+    }
+  },
+  "by_class": {
+    "swimming": 20,
+    "drowning": 0
+  }
+}
