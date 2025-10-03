@@ -351,8 +351,26 @@ class DatasetValidator:
             output_path = Path(output_file)
             output_path.parent.mkdir(parents=True, exist_ok=True)
             
+            # Convert numpy types to native Python types
+            def convert_to_native(obj):
+                if isinstance(obj, np.integer):
+                    return int(obj)
+                elif isinstance(obj, np.floating):
+                    return float(obj)
+                elif isinstance(obj, np.ndarray):
+                    return obj.tolist()
+                elif isinstance(obj, dict):
+                    return {key: convert_to_native(value) for key, value in obj.items()}
+                elif isinstance(obj, list):
+                    return [convert_to_native(item) for item in obj]
+                elif isinstance(obj, tuple):
+                    return tuple(convert_to_native(item) for item in obj)
+                return obj
+            
+            report_native = convert_to_native(report)
+            
             with open(output_path, 'w') as f:
-                json.dump(report, f, indent=2)
+                json.dump(report_native, f, indent=2)
             
             logger.info(f"Report saved to {output_path}")
         
