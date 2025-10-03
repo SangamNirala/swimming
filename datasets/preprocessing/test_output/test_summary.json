@@ -1,0 +1,42 @@
+{
+  "test_timestamp": "2025-01-03",
+  "sample_image": "/app/datasets/train/swimming/part1/swimming_train_00002.jpg",
+  "tests_passed": {
+    "image_resizing": true,
+    "normalization": true,
+    "data_augmentation": true,
+    "dataset_validation": true,
+    "comparison_grid": true
+  },
+  "output_files": {
+    "resized": "/app/datasets/preprocessing/test_output/01_resized.jpg",
+    "augmented": [
+      "/app/datasets/preprocessing/test_output/03_augmented_01.jpg",
+      "/app/datasets/preprocessing/test_output/03_augmented_02.jpg",
+      "/app/datasets/preprocessing/test_output/03_augmented_03.jpg",
+      "/app/datasets/preprocessing/test_output/03_augmented_04.jpg",
+      "/app/datasets/preprocessing/test_output/03_augmented_05.jpg"
+    ],
+    "specific_augmentations": [
+      "/app/datasets/preprocessing/test_output/04a_flipped.jpg",
+      "/app/datasets/preprocessing/test_output/04b_brightness.jpg",
+      "/app/datasets/preprocessing/test_output/04c_motion_blur.jpg",
+      "/app/datasets/preprocessing/test_output/04d_noise.jpg",
+      "/app/datasets/preprocessing/test_output/04e_color_jitter.jpg"
+    ],
+    "comparison_grid": "/app/datasets/preprocessing/test_output/05_comparison_grid.jpg"
+  },
+  "dataset_statistics": {
+    "total_images": 9342,
+    "split_ratios": {
+      "train": 0.6998501391564975,
+      "val": 0.1499678869621066,
+      "test": 0.15018197388139584
+    },
+    "class_balance": {
+      "swimming": 4611,
+      "drowning": 1927,
+      "imbalance_ratio": 2.392838609237156
+    }
+  }
+}
