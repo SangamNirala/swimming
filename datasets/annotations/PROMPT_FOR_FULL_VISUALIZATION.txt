@@ -1,0 +1,142 @@
+# 📋 COMPREHENSIVE PROMPT FOR EMERGENT AI AGENT
+
+Copy and paste this entire prompt into Emergent AI chat:
+
+---
+
+## PROMPT START (Copy everything below this line)
+
+---
+
+I need you to create visual annotations (images with drawn bounding boxes) for ALL 9,342 images in my Swimming Pool Drowning Detection dataset.
+
+**CURRENT STATUS:**
+- ✅ All 9,342 images have been annotated with YOLOv8s model at 0.15 confidence
+- ✅ Text annotations (.txt files) exist in: `/app/datasets/annotations/yolov8s_annotations_batched/`
+- ✅ Currently only 602 sample images have visual bounding boxes drawn
+- ❌ I need ALL 9,342 images visualized with bounding boxes for manual validation
+
+**WHAT I NEED:**
+Create visualized images with drawn bounding boxes for ALL 9,342 images from my dataset, showing:
+- 🟢 **Green boxes** with "Swimming" labels for Class 0 (normal swimming behavior)
+- 🔴 **Red boxes** with "Drowning" labels for Class 1 (distress behavior)
+- Person ID numbers (1, 2, 3... for multiple people in same image)
+- White center dots showing exact detection points
+- Image filename and detection count overlay
+
+**TECHNICAL SPECIFICATIONS:**
+
+1. **Source Annotations:** Use existing YOLO format annotations from:
+   - `/app/datasets/annotations/yolov8s_annotations_batched/train/swimming/batch_*/`
+   - `/app/datasets/annotations/yolov8s_annotations_batched/train/drowning/batch_*/`
+   - `/app/datasets/annotations/yolov8s_annotations_batched/val/swimming/batch_*/`
+   - `/app/datasets/annotations/yolov8s_annotations_batched/val/drowning/batch_*/`
+   - `/app/datasets/annotations/yolov8s_annotations_batched/test/swimming/batch_*/`
+   - `/app/datasets/annotations/yolov8s_annotations_batched/test/drowning/batch_*/`
+
+2. **Source Images:** Original images are in:
+   - `/app/datasets/train/swimming/part*/`
+   - `/app/datasets/train/drowning/part*/`
+   - `/app/datasets/val/swimming/part*/`
+   - `/app/datasets/val/drowning/part*/`
+   - `/app/datasets/test/swimming/part*/`
+   - `/app/datasets/test/drowning/part*/`
+
+3. **Output Location:** Save all visualized images in:
+   - `/app/datasets/annotations/visualized_yolov8s_full/`
+
+4. **Output Organization:** Organize output in batches for GitHub compatibility (max 1000 images per folder):
+   ```
+   visualized_yolov8s_full/
+   ├── train/
+   │   ├── swimming/
+   │   │   ├── batch_001/ (1000 visualized images)
+   │   │   ├── batch_002/ (1000 visualized images)
+   │   │   └── batch_003/ (remaining images)
+   │   └── drowning/
+   │       ├── batch_001/ (1000 visualized images)
+   │       └── batch_002/ (remaining images)
+   ├── val/
+   │   ├── swimming/batch_001/
+   │   └── drowning/batch_001/
+   └── test/
+       ├── swimming/batch_001/
+       └── drowning/batch_001/
+   ```
+
+5. **Visual Requirements:**
+   - Draw bounding boxes using OpenCV
+   - Class 0 (swimming): Bright green RGB(0, 255, 0), thickness 2-3 pixels
+   - Class 1 (drowning): Bright red RGB(255, 0, 0), thickness 2-3 pixels
+   - Add text labels: "1: Swimming", "2: Swimming" or "1: Drowning", "2: Drowning"
+   - Label background: filled rectangle matching box color
+   - Label text: white color, easily readable font
+   - Draw white center point circles (radius 5 pixels) at box centers
+   - Add image info overlay: filename and detection count
+
+**PROCESSING REQUIREMENTS:**
+- Process all 9,342 images (no sampling)
+- Handle batch processing efficiently
+- Show progress every 500 images
+- Include error handling for corrupted images
+- Generate final statistics report
+- Estimated time: 2-3 hours for all images
+- Run in background so it continues if I press stop
+
+**EXPECTED OUTPUT:**
+- 9,342 visualized images with bounding boxes drawn
+- Organized in batches (≤1,000 per folder)
+- Statistics JSON file with processing details
+- Progress log file
+- Grid overview images (optional)
+
+**QUALITY CHECKS:**
+- All bounding boxes from .txt files must be drawn
+- Colors must match classes (green=swimming, red=drowning)
+- Multiple people in same image must all be drawn
+- Annotations must be clearly visible
+- Image quality should be preserved (JPEG 90-95% quality)
+
+**USE EXISTING SCRIPT:**
+You can modify and use the existing visualization script at:
+`/app/datasets/annotations/tools/visualize_yolov8s_annotations.py`
+
+Just update it to:
+1. Process ALL images (not just samples)
+2. Organize output in batches of 1000
+3. Handle the part* subdirectories in dataset
+4. Run in background with progress tracking
+
+**DELIVERABLES:**
+1. All 9,342 images with bounding boxes drawn
+2. Organized in GitHub-friendly batches
+3. Processing statistics and summary
+4. Verification that all images were processed successfully
+
+**PRIORITY:** HIGH - I need these for manual validation before training my model.
+
+Please start processing immediately and show progress updates every 500 images.
+
+---
+
+## PROMPT END
+
+---
+
+# HOW TO USE THIS PROMPT:
+
+1. **Copy everything between "PROMPT START" and "PROMPT END"**
+2. **Paste into Emergent AI chat**
+3. **Press Enter**
+4. **AI will process all 9,342 images**
+
+The AI agent will:
+- ✅ Understand the complete context
+- ✅ Know where to find files
+- ✅ Know how to organize output
+- ✅ Process all images with bounding boxes
+- ✅ Create GitHub-friendly structure
+
+**Estimated Time:** 2-3 hours for full processing
+
+**You can press STOP anytime** - the process will continue in background!
