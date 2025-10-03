@@ -1,0 +1,13 @@
+names:
+- drowning
+- swimming
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: drowning-detection-e6kbk
+  url: https://universe.roboflow.com/zidan-giogn/drowning-detection-e6kbk/dataset/1
+  version: 1
+  workspace: zidan-giogn
+test: ../test/images
+train: /app/datasets/raw/drowning-detection-e6kbk/train/images
+val: /app/datasets/raw/drowning-detection-e6kbk/valid/images

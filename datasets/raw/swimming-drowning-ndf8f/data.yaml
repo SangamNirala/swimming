@@ -1,0 +1,14 @@
+names:
+- Drowning
+- Person-out-of-water
+- Swimming
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: swimming-drowning-ndf8f
+  url: https://universe.roboflow.com/kittipat-blwh5/swimming-drowning-ndf8f/dataset/1
+  version: 1
+  workspace: kittipat-blwh5
+test: ../test/images
+train: /app/datasets/raw/swimming-drowning-ndf8f/train/images
+val: /app/datasets/raw/swimming-drowning-ndf8f/valid/images
