@@ -1,0 +1,2010 @@
+{
+  "creation_date": "2025-01-15",
+  "total_images": 248,
+  "selection_report": {
+    "train": {
+      "swimming": 123,
+      "drowning": 51
+    },
+    "val": {
+      "swimming": 26,
+      "drowning": 11
+    },
+    "test": {
+      "swimming": 26,
+      "drowning": 11
+    }
+  },
+  "images": [
+    {
+      "filename": "train_swimming_swimming_train_01636.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01636.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02593.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02593.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01404.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01404.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01992.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01992.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01749.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_01749.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02751.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02751.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02716.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02716.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00909.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00909.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00229.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_00229.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01317.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01317.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02159.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02159.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02532.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02532.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02011.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02011.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01023.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_01023.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03897.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_03897.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02909.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_02909.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04319.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04319.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01995.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_01995.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04329.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_04329.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03309.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_03309.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02449.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_02449.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00421.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_00421.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04107.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_04107.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03010.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03010.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04091.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04091.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03110.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_03110.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00275.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00275.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01987.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01987.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00753.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_00753.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00015.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_00015.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02302.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02302.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04009.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_04009.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01065.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01065.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04378.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04378.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00242.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00242.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04075.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04075.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00285.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_00285.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02040.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02040.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01496.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01496.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03325.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_03325.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00393.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00393.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04120.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_04120.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04074.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_04074.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00164.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00164.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00337.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_00337.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01260.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_01260.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02217.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02217.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03641.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03641.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03988.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_03988.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01699.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01699.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02981.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02981.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01624.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_01624.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01320.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01320.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03990.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_03990.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02101.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02101.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04129.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04129.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04312.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_04312.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04273.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_04273.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01649.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01649.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00579.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_00579.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00369.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_00369.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04526.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_04526.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01646.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01646.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03519.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_03519.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01080.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01080.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04606.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_04606.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01032.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_01032.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02517.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_02517.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04006.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_04006.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02917.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02917.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00307.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00307.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00869.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_00869.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04594.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_04594.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01371.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_01371.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04315.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_04315.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02341.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02341.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02028.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02028.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00928.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_00928.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01226.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01226.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02138.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02138.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01396.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01396.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01028.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01028.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01240.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01240.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04138.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_04138.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02587.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02587.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02754.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02754.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00343.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00343.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03279.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_03279.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02444.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_02444.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04411.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_04411.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02723.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02723.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03310.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03310.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00215.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00215.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00184.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00184.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03390.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03390.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03807.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_03807.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01114.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01114.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01230.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_01230.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02439.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02439.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02014.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_02014.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04103.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_04103.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04585.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_04585.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00399.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_00399.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03605.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_03605.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01351.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_01351.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00196.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_00196.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03693.jpg",
+      "original_path": "/app/datasets/train/swimming/part2/swimming_train_03693.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01615.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01615.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00833.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_00833.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03317.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_03317.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_01383.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_01383.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02480.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_02480.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00901.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00901.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02079.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_02079.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_00434.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_00434.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02968.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_02968.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03866.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_03866.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02603.jpg",
+      "original_path": "/app/datasets/train/swimming/part5/swimming_train_02603.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03364.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03364.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03003.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_03003.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_03120.jpg",
+      "original_path": "/app/datasets/train/swimming/part1/swimming_train_03120.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_04212.jpg",
+      "original_path": "/app/datasets/train/swimming/part4/swimming_train_04212.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_swimming_swimming_train_02993.jpg",
+      "original_path": "/app/datasets/train/swimming/part3/swimming_train_02993.jpg",
+      "split": "train",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01089.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01089.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01743.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01743.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01293.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01293.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00842.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00842.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01523.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01523.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00403.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00403.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01437.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01437.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00272.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00272.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00843.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00843.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01720.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01720.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01095.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01095.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01125.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01125.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00610.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00610.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00256.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00256.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00617.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00617.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00305.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00305.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00179.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00179.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00383.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00383.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00994.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00994.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00632.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00632.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00958.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00958.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00194.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00194.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01244.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01244.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00135.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00135.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01758.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01758.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00712.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00712.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01022.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01022.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00593.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00593.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01121.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01121.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00854.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00854.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00902.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00902.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00471.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00471.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00768.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00768.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00121.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00121.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01544.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01544.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00630.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00630.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01253.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01253.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01705.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01705.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00212.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00212.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01171.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01171.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01038.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01038.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01417.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01417.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01756.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01756.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00765.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00765.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01072.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01072.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01505.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_01505.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01514.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01514.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_01823.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_01823.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00885.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00885.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00259.jpg",
+      "original_path": "/app/datasets/train/drowning/part1/drowning_train_00259.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "train_drowning_drowning_train_00711.jpg",
+      "original_path": "/app/datasets/train/drowning/part2/drowning_train_00711.jpg",
+      "split": "train",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00531.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00531.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00472.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00472.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00029.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00029.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00170.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00170.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00102.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00102.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00278.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00278.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00485.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00485.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00338.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00338.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00940.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00940.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00613.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00613.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00863.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00863.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00620.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00620.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00665.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00665.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00386.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00386.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00127.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00127.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00062.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00062.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00004.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00004.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00893.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00893.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00594.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00594.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00723.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00723.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00363.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00363.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00124.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00124.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00654.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00654.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00508.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00508.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00303.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00303.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_swimming_swimming_val_00937.jpg",
+      "original_path": "/app/datasets/val/swimming/swimming_val_00937.jpg",
+      "split": "val",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00360.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00360.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00087.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00087.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00229.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00229.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00373.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00373.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00274.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00274.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00117.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00117.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00300.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00300.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00242.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00242.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00337.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00337.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00029.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00029.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "val_drowning_drowning_val_00074.jpg",
+      "original_path": "/app/datasets/val/drowning/drowning_val_00074.jpg",
+      "split": "val",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00477.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00477.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00589.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00589.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00590.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00590.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00299.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00299.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00573.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00573.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00481.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00481.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00494.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00494.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00056.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00056.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00537.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00537.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00167.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00167.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00511.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00511.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00017.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00017.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00853.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00853.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00175.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00175.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00214.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00214.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00432.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00432.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00630.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00630.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00607.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00607.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00875.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00875.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00643.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00643.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00281.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00281.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00615.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00615.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00435.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00435.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00282.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00282.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00297.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00297.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_swimming_swimming_test_00212.jpg",
+      "original_path": "/app/datasets/test/swimming/swimming_test_00212.jpg",
+      "split": "test",
+      "class": "swimming",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00110.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00110.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00322.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00322.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00231.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00231.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00300.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00300.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00347.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00347.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00210.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00210.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00084.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00084.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00291.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00291.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00054.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00054.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00139.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00139.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    },
+    {
+      "filename": "test_drowning_drowning_test_00095.jpg",
+      "original_path": "/app/datasets/test/drowning/drowning_test_00095.jpg",
+      "split": "test",
+      "class": "drowning",
+      "annotated": false,
+      "reviewed": false
+    }
+  ],
+  "annotation_progress": {
+    "total": 248,
+    "completed": 0,
+    "reviewed": 0,
+    "quality_approved": false
+  }
+}
