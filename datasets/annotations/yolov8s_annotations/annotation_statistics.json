@@ -1,37 +1,37 @@
 {
-  "start_time": "2025-10-03T12:00:11.708220",
+  "start_time": "2025-10-03T12:01:12.250642",
   "model": "YOLOv8s",
   "confidence_threshold": 0.15,
-  "total_images": 100,
-  "processed_images": 100,
-  "images_with_detections": 69,
-  "total_detections": 331,
+  "total_images": 9342,
+  "processed_images": 9342,
+  "images_with_detections": 6616,
+  "total_detections": 23951,
   "failed_images": 0,
-  "swimming_images": 69,
-  "drowning_images": 0,
-  "swimming_detections": 331,
-  "drowning_detections": 0,
+  "swimming_images": 4178,
+  "drowning_images": 2438,
+  "swimming_detections": 19373,
+  "drowning_detections": 4578,
   "split_stats": {
     "train": {
-      "total": 100,
-      "with_detections": 69,
-      "detections": 331
+      "total": 6538,
+      "with_detections": 4623,
+      "detections": 16757
     },
     "val": {
-      "total": 0,
-      "with_detections": 0,
-      "detections": 0
+      "total": 1401,
+      "with_detections": 998,
+      "detections": 3491
     },
     "test": {
-      "total": 0,
-      "with_detections": 0,
-      "detections": 0
+      "total": 1403,
+      "with_detections": 995,
+      "detections": 3703
     }
   },
-  "end_time": "2025-10-03T12:01:01.542935",
-  "processing_time_seconds": 49.83470129966736,
-  "processing_time_minutes": 0.830578354994456,
-  "images_per_second": 2.0066338794463183,
-  "detection_rate": 69.0,
-  "avg_detections_per_image": 3.31
+  "end_time": "2025-10-03T13:20:52.395630",
+  "processing_time_seconds": 4780.144973754883,
+  "processing_time_minutes": 79.66908289591471,
+  "images_per_second": 1.9543340319784706,
+  "detection_rate": 70.81995290087775,
+  "avg_detections_per_image": 2.563797901948191
 }
