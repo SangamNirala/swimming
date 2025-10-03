@@ -1,0 +1,30 @@
+# Dataset Management Requirements
+
+# Roboflow API
+roboflow==1.1.31
+
+# Image/Video Processing
+opencv-python==4.9.0.80
+Pillow==10.2.0
+imageio==2.34.0
+imageio-ffmpeg==0.4.9
+
+# YouTube Download
+yt-dlp==2024.3.10
+
+# Data Processing
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+
+# Utilities
+tqdm==4.66.2
+python-dotenv==1.0.1
+requests==2.31.0
+
+# Annotation Tools
+labelImg==1.8.6
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
