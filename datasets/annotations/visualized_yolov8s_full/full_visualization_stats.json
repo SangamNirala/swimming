@@ -1,0 +1,30 @@
+{
+  "total_processed": 9342,
+  "total_successful": 9342,
+  "total_failed": 0,
+  "by_split": {
+    "train": {
+      "swimming": 4611,
+      "drowning": 1927,
+      "failed": 0
+    },
+    "val": {
+      "swimming": 988,
+      "drowning": 413,
+      "failed": 0
+    },
+    "test": {
+      "swimming": 989,
+      "drowning": 414,
+      "failed": 0
+    }
+  },
+  "by_class": {
+    "swimming": 6588,
+    "drowning": 2754
+  },
+  "start_time": "2025-10-03T13:59:02.032994",
+  "failed_files": [],
+  "end_time": "2025-10-03T14:00:22.183293",
+  "processing_time_minutes": 1.335838516553243
+}

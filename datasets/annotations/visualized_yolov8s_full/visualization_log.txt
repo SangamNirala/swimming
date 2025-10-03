@@ -1,0 +1,28 @@
+Full Annotation Visualization Log
+======================================================================
+
+Start Time: 2025-10-03T13:59:02.032994
+End Time: 2025-10-03T14:00:22.183293
+Processing Time: 1.3 minutes
+
+Total Images: 9,342
+Successful: 9,342
+Failed: 0
+
+By Class:
+  Swimming: 6,588
+  Drowning: 2,754
+
+By Split:
+  Train: 6,538 images
+    Swimming: 4,611
+    Drowning: 1,927
+    Failed: 0
+  Val: 1,401 images
+    Swimming: 988
+    Drowning: 413
+    Failed: 0
+  Test: 1,403 images
+    Swimming: 989
+    Drowning: 414
+    Failed: 0
