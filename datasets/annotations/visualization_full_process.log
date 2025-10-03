@@ -1,0 +1,324 @@
+
+======================================================================
+🎨 STARTING FULL ANNOTATION VISUALIZATION
+======================================================================
+📁 Dataset: /app/datasets
+📝 Annotations: /app/datasets/annotations/yolov8s_annotations_batched
+💾 Output: /app/datasets/annotations/visualized_yolov8s_full
+📦 Batch Size: 1000 images per folder
+⏰ Started at: 2025-10-03 13:59:02
+======================================================================
+
+📊 Counting total annotations...
+✅ Found 9,342 annotations to visualize
+
+
+======================================================================
+🏊 Processing TRAIN / SWIMMING
+======================================================================
+
+📝 Found 4,611 annotations
+📦 Will create 5 output batch(es)
+
+   📦 Processing batch_001 (1000 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 500 / 9,342 images (5.4%)
+✅ Successful: 500
+❌ Failed: 0
+⏱️  Speed: 207.8 images/second
+⏳ Estimated remaining time: 0.7 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 1,000 / 9,342 images (10.7%)
+✅ Successful: 1,000
+❌ Failed: 0
+⏱️  Speed: 203.6 images/second
+⏳ Estimated remaining time: 0.7 minutes
+======================================================================
+
+      ✅ batch_001: 1000 successful, 0 failed
+   📦 Processing batch_002 (1000 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 1,500 / 9,342 images (16.1%)
+✅ Successful: 1,500
+❌ Failed: 0
+⏱️  Speed: 160.9 images/second
+⏳ Estimated remaining time: 0.8 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 2,000 / 9,342 images (21.4%)
+✅ Successful: 2,000
+❌ Failed: 0
+⏱️  Speed: 148.6 images/second
+⏳ Estimated remaining time: 0.8 minutes
+======================================================================
+
+      ✅ batch_002: 1000 successful, 0 failed
+   📦 Processing batch_003 (1000 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 2,500 / 9,342 images (26.8%)
+✅ Successful: 2,500
+❌ Failed: 0
+⏱️  Speed: 157.3 images/second
+⏳ Estimated remaining time: 0.7 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 3,000 / 9,342 images (32.1%)
+✅ Successful: 3,000
+❌ Failed: 0
+⏱️  Speed: 162.1 images/second
+⏳ Estimated remaining time: 0.7 minutes
+======================================================================
+
+      ✅ batch_003: 1000 successful, 0 failed
+   📦 Processing batch_004 (1000 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 3,500 / 9,342 images (37.5%)
+✅ Successful: 3,500
+❌ Failed: 0
+⏱️  Speed: 168.0 images/second
+⏳ Estimated remaining time: 0.6 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 4,000 / 9,342 images (42.8%)
+✅ Successful: 4,000
+❌ Failed: 0
+⏱️  Speed: 172.6 images/second
+⏳ Estimated remaining time: 0.5 minutes
+======================================================================
+
+      ✅ batch_004: 1000 successful, 0 failed
+   📦 Processing batch_005 (611 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 4,500 / 9,342 images (48.2%)
+✅ Successful: 4,500
+❌ Failed: 0
+⏱️  Speed: 176.1 images/second
+⏳ Estimated remaining time: 0.5 minutes
+======================================================================
+
+      ✅ batch_005: 611 successful, 0 failed
+
+======================================================================
+🏊 Processing TRAIN / DROWNING
+======================================================================
+
+📝 Found 1,927 annotations
+📦 Will create 2 output batch(es)
+
+   📦 Processing batch_001 (1000 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 5,000 / 9,342 images (53.5%)
+✅ Successful: 5,000
+❌ Failed: 0
+⏱️  Speed: 154.3 images/second
+⏳ Estimated remaining time: 0.5 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 5,500 / 9,342 images (58.9%)
+✅ Successful: 5,500
+❌ Failed: 0
+⏱️  Speed: 139.5 images/second
+⏳ Estimated remaining time: 0.5 minutes
+======================================================================
+
+      ✅ batch_001: 1000 successful, 0 failed
+   📦 Processing batch_002 (927 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 6,000 / 9,342 images (64.2%)
+✅ Successful: 6,000
+❌ Failed: 0
+⏱️  Speed: 130.3 images/second
+⏳ Estimated remaining time: 0.4 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 6,500 / 9,342 images (69.6%)
+✅ Successful: 6,500
+❌ Failed: 0
+⏱️  Speed: 129.5 images/second
+⏳ Estimated remaining time: 0.4 minutes
+======================================================================
+
+      ✅ batch_002: 927 successful, 0 failed
+
+======================================================================
+🏊 Processing VAL / SWIMMING
+======================================================================
+
+📝 Found 988 annotations
+📦 Will create 1 output batch(es)
+
+   📦 Processing batch_001 (988 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 7,000 / 9,342 images (74.9%)
+✅ Successful: 7,000
+❌ Failed: 0
+⏱️  Speed: 132.0 images/second
+⏳ Estimated remaining time: 0.3 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 7,500 / 9,342 images (80.3%)
+✅ Successful: 7,500
+❌ Failed: 0
+⏱️  Speed: 128.1 images/second
+⏳ Estimated remaining time: 0.2 minutes
+======================================================================
+
+      ✅ batch_001: 988 successful, 0 failed
+
+======================================================================
+🏊 Processing VAL / DROWNING
+======================================================================
+
+📝 Found 413 annotations
+📦 Will create 1 output batch(es)
+
+   📦 Processing batch_001 (413 images)...
+      ✅ batch_001: 413 successful, 0 failed
+
+======================================================================
+🏊 Processing TEST / SWIMMING
+======================================================================
+
+📝 Found 989 annotations
+📦 Will create 1 output batch(es)
+
+   📦 Processing batch_001 (989 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 8,000 / 9,342 images (85.6%)
+✅ Successful: 8,000
+❌ Failed: 0
+⏱️  Speed: 122.5 images/second
+⏳ Estimated remaining time: 0.2 minutes
+======================================================================
+
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 8,500 / 9,342 images (91.0%)
+✅ Successful: 8,500
+❌ Failed: 0
+⏱️  Speed: 121.0 images/second
+⏳ Estimated remaining time: 0.1 minutes
+======================================================================
+
+      ✅ batch_001: 989 successful, 0 failed
+
+======================================================================
+🏊 Processing TEST / DROWNING
+======================================================================
+
+📝 Found 414 annotations
+📦 Will create 1 output batch(es)
+
+   📦 Processing batch_001 (414 images)...
+
+======================================================================
+📊 PROGRESS UPDATE
+======================================================================
+✅ Processed: 9,000 / 9,342 images (96.3%)
+✅ Successful: 9,000
+❌ Failed: 0
+⏱️  Speed: 119.3 images/second
+⏳ Estimated remaining time: 0.0 minutes
+======================================================================
+
+      ✅ batch_001: 414 successful, 0 failed
+
+======================================================================
+🎉 PROCESSING COMPLETE!
+======================================================================
+✅ Total Processed: 9,342
+✅ Successful: 9,342
+❌ Failed: 0
+⏱️  Total Time: 1.3 minutes
+⚡ Average Speed: 116.6 images/second
+======================================================================
+
+
+======================================================================
+🎉 VISUALIZATION COMPLETE!
+======================================================================
+
+📊 Final Summary:
+   Total Images Visualized: 9,342 / 9,342
+   Success Rate: 100.0%
+
+🏊 By Class:
+   Swimming: 6,588 images
+   Drowning: 2,754 images
+
+📈 By Split:
+   Train: 6,538 images
+      Swimming: 4,611
+      Drowning: 1,927
+   Val: 1,401 images
+      Swimming: 988
+      Drowning: 413
+   Test: 1,403 images
+      Swimming: 989
+      Drowning: 414
+
+💾 Output Directory: /app/datasets/annotations/visualized_yolov8s_full
+📊 Statistics File: /app/datasets/annotations/visualized_yolov8s_full/full_visualization_stats.json
+📝 Log File: /app/datasets/annotations/visualized_yolov8s_full/visualization_log.txt
+
+✅ All visualizations complete!
+======================================================================
+
