@@ -1,21 +1,21 @@
 {
-  "total_visualized": 20,
+  "total_visualized": 600,
   "by_split": {
     "train": {
-      "swimming": 20,
-      "drowning": 0
+      "swimming": 100,
+      "drowning": 100
     },
     "val": {
-      "swimming": 0,
-      "drowning": 0
+      "swimming": 100,
+      "drowning": 100
     },
     "test": {
-      "swimming": 0,
-      "drowning": 0
+      "swimming": 100,
+      "drowning": 100
     }
   },
   "by_class": {
-    "swimming": 20,
-    "drowning": 0
+    "swimming": 300,
+    "drowning": 300
   }
 }

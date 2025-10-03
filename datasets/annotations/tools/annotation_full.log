@@ -1,0 +1,105 @@
+🔍 Checking dependencies...
+  ✅ OpenCV
+  ✅ Ultralytics YOLO
+  ✅ PyTorch
+  ✅ NumPy
+
+🤖 Initializing YOLOv8s Model...
+   (This will download the model if not already cached)
+✅ YOLOv8s model loaded successfully!
+
+🚀 Starting High-Accuracy Annotation with YOLOv8s
+📁 Dataset: /app/datasets
+💾 Output: /app/datasets/annotations/yolov8s_annotations
+🎯 Confidence Threshold: 0.15
+
+🔍 Scanning dataset...
+✅ Found 9342 images to process
+
+📊 Progress: 1/9342 (0.0%)
+   Speed: 419430.4 images/sec | Est. remaining: 0.0 min
+
+📊 Progress: 500/9342 (5.4%)
+   Speed: 2.0 images/sec | Est. remaining: 73.6 min
+
+📊 Progress: 1000/9342 (10.7%)
+   Speed: 2.0 images/sec | Est. remaining: 69.3 min
+
+📊 Progress: 1500/9342 (16.1%)
+   Speed: 2.0 images/sec | Est. remaining: 66.1 min
+
+📊 Progress: 2000/9342 (21.4%)
+   Speed: 2.0 images/sec | Est. remaining: 61.7 min
+
+📊 Progress: 2500/9342 (26.8%)
+   Speed: 2.0 images/sec | Est. remaining: 57.4 min
+
+📊 Progress: 3000/9342 (32.1%)
+   Speed: 2.0 images/sec | Est. remaining: 53.0 min
+
+📊 Progress: 3500/9342 (37.5%)
+   Speed: 2.0 images/sec | Est. remaining: 48.7 min
+
+📊 Progress: 4000/9342 (42.8%)
+   Speed: 2.0 images/sec | Est. remaining: 44.6 min
+
+📊 Progress: 4500/9342 (48.2%)
+   Speed: 2.0 images/sec | Est. remaining: 40.5 min
+
+📊 Progress: 5000/9342 (53.5%)
+   Speed: 2.0 images/sec | Est. remaining: 36.5 min
+
+📊 Progress: 5500/9342 (58.9%)
+   Speed: 2.0 images/sec | Est. remaining: 32.5 min
+
+📊 Progress: 6000/9342 (64.2%)
+   Speed: 2.0 images/sec | Est. remaining: 28.4 min
+
+📊 Progress: 6500/9342 (69.6%)
+   Speed: 2.0 images/sec | Est. remaining: 24.2 min
+
+📊 Progress: 7000/9342 (74.9%)
+   Speed: 2.0 images/sec | Est. remaining: 19.9 min
+
+📊 Progress: 7500/9342 (80.3%)
+   Speed: 2.0 images/sec | Est. remaining: 15.7 min
+
+📊 Progress: 8000/9342 (85.6%)
+   Speed: 2.0 images/sec | Est. remaining: 11.4 min
+
+📊 Progress: 8500/9342 (91.0%)
+   Speed: 2.0 images/sec | Est. remaining: 7.2 min
+
+📊 Progress: 9000/9342 (96.3%)
+   Speed: 2.0 images/sec | Est. remaining: 2.9 min
+
+======================================================================
+🎉 ANNOTATION COMPLETE!
+======================================================================
+
+📊 Overall Statistics:
+   Total Images Processed: 9,342
+   Images with Detections: 6,616 (70.8%)
+   Total Detections: 23,951
+   Avg Detections per Image: 2.56
+   Failed Images: 0
+
+🏊 Class Distribution:
+   Swimming: 4,178 images, 19,373 detections
+   Drowning: 2,438 images, 4,578 detections
+
+📈 Split Statistics:
+   Train: 6,538 images, 4,623 with detections (70.7%), 16,757 total detections
+   Val: 1,401 images, 998 with detections (71.2%), 3,491 total detections
+   Test: 1,403 images, 995 with detections (70.9%), 3,703 total detections
+
+⏱️  Performance:
+   Total Time: 79.7 minutes
+   Speed: 2.0 images/second
+
+💾 Output:
+   Annotations: /app/datasets/annotations/yolov8s_annotations
+   Statistics: /app/datasets/annotations/yolov8s_annotations/annotation_statistics.json
+
+✅ High-accuracy annotation system complete!
+======================================================================
