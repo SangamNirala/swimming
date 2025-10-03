@@ -1,0 +1,36 @@
+{
+  "total_files": 9342,
+  "total_batches": 11,
+  "splits": {
+    "train": {
+      "swimming": {
+        "total_files": 4611,
+        "num_batches": 5
+      },
+      "drowning": {
+        "total_files": 1927,
+        "num_batches": 2
+      }
+    },
+    "val": {
+      "swimming": {
+        "total_files": 988,
+        "num_batches": 1
+      },
+      "drowning": {
+        "total_files": 413,
+        "num_batches": 1
+      }
+    },
+    "test": {
+      "swimming": {
+        "total_files": 989,
+        "num_batches": 1
+      },
+      "drowning": {
+        "total_files": 414,
+        "num_batches": 1
+      }
+    }
+  }
+}
