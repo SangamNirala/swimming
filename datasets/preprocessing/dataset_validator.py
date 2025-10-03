@@ -333,7 +333,7 @@ class DatasetValidator:
         
         report = {
             'dataset_root': str(self.dataset_root),
-            'validation_timestamp': str(pd.Timestamp.now()) if 'pd' in dir() else str(datetime.now()),
+            'validation_timestamp': datetime.now().isoformat(),
             'split_validation': self.validate_split_ratios(),
             'class_balance': {
                 'train': self.check_class_balance('train'),
