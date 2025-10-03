@@ -1,6 +1,6 @@
 {
   "dataset_root": "/app/datasets",
-  "validation_timestamp": "2025-10-03T14:23:56.207880",
+  "validation_timestamp": "2025-10-03T14:24:16.899977",
   "split_validation": {
     "valid": true,
     "counts": {
@@ -91,4 +91,41 @@
     "corrupted_files": [],
     "resolution": {
       "mean": [
-        
+        1040,
+        642
+      ],
+      "min": [
+        480,
+        320
+      ],
+      "max": [
+        1920,
+        1080
+      ],
+      "std": [
+        347,
+        168
+      ]
+    },
+    "aspect_ratio": {
+      "mean": 1.6104770916778253,
+      "min": 1.0,
+      "max": 1.8991097922848665,
+      "std": 0.2743272843017704
+    },
+    "file_size_kb": {
+      "mean": 59.8304296875,
+      "min": 9.4345703125,
+      "max": 301.751953125,
+      "std": 58.90573591604283
+    }
+  },
+  "annotation_validation": {
+    "images_without_annotations": [],
+    "annotations_without_images": [],
+    "total_images": 9342,
+    "total_annotations": 9342,
+    "matched": 9342,
+    "valid": true
+  }
+}
