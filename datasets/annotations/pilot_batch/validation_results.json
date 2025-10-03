@@ -9,7 +9,8 @@
   "total_errors": 0,
   "total_warnings": 2,
   "class_distribution": {
-    "0": 215
+    "0": 141,
+    "1": 74
   },
   "file_results": {
     "train_drowning_drowning_train_01072.txt": {
@@ -41,7 +42,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "val_swimming_swimming_val_00004.txt": {
@@ -89,7 +90,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_00403.txt": {
@@ -98,7 +99,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_04138.txt": {
@@ -123,7 +124,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_02593.txt": {
@@ -141,7 +142,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_00256.txt": {
@@ -150,7 +151,7 @@
       "warnings": [],
       "bbox_count": 3,
       "class_distribution": {
-        "0": 3
+        "1": 3
       }
     },
     "train_swimming_swimming_train_04009.txt": {
@@ -175,7 +176,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_03110.txt": {
@@ -241,7 +242,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_drowning_drowning_train_00842.txt": {
@@ -250,7 +251,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_01743.txt": {
@@ -259,7 +260,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_01636.txt": {
@@ -275,7 +276,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_02011.txt": {
@@ -305,7 +306,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00062.txt": {
@@ -353,7 +354,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_02101.txt": {
@@ -399,7 +400,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_02517.txt": {
@@ -475,7 +476,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_02532.txt": {
@@ -555,7 +556,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_00928.txt": {
@@ -594,7 +595,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_03309.txt": {
@@ -626,7 +627,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_02444.txt": {
@@ -658,7 +659,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00170.txt": {
@@ -715,7 +716,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_00712.txt": {
@@ -724,7 +725,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "test_swimming_swimming_test_00281.txt": {
@@ -756,7 +757,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_01649.txt": {
@@ -823,7 +824,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_drowning_drowning_train_00194.txt": {
@@ -832,7 +833,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_03897.txt": {
@@ -869,7 +870,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "val_drowning_drowning_val_00242.txt": {
@@ -878,7 +879,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_04329.txt": {
@@ -905,7 +906,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_01089.txt": {
@@ -914,7 +915,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "test_drowning_drowning_test_00322.txt": {
@@ -923,7 +924,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00338.txt": {
@@ -962,7 +963,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_00135.txt": {
@@ -971,7 +972,7 @@
       "warnings": [],
       "bbox_count": 3,
       "class_distribution": {
-        "0": 3
+        "1": 3
       }
     },
     "val_swimming_swimming_val_00127.txt": {
@@ -1049,7 +1050,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_03364.txt": {
@@ -1225,7 +1226,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00124.txt": {
@@ -1264,7 +1265,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_02302.txt": {
@@ -1298,7 +1299,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "test_swimming_swimming_test_00477.txt": {
@@ -1318,7 +1319,7 @@
       ],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_03866.txt": {
@@ -1368,7 +1369,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_03519.txt": {
@@ -1384,7 +1385,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00723.txt": {
@@ -1430,7 +1431,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_01226.txt": {
@@ -1471,7 +1472,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_02014.txt": {
@@ -1549,7 +1550,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_00307.txt": {
@@ -1613,7 +1614,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_drowning_drowning_train_00630.txt": {
@@ -1673,7 +1674,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_drowning_drowning_val_00117.txt": {
@@ -1717,7 +1718,7 @@
       "warnings": [],
       "bbox_count": 3,
       "class_distribution": {
-        "0": 3
+        "1": 3
       }
     },
     "train_drowning_drowning_train_00617.txt": {
@@ -1742,7 +1743,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00531.txt": {
@@ -1760,7 +1761,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "val_swimming_swimming_val_00472.txt": {
@@ -1785,7 +1786,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "train_swimming_swimming_train_01032.txt": {
@@ -1826,7 +1827,7 @@
       "warnings": [],
       "bbox_count": 2,
       "class_distribution": {
-        "0": 2
+        "1": 2
       }
     },
     "val_swimming_swimming_val_00594.txt": {
@@ -1874,7 +1875,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "train_swimming_swimming_train_00275.txt": {
@@ -1929,7 +1930,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "test_swimming_swimming_test_00630.txt": {
@@ -1966,7 +1967,7 @@
       "warnings": [],
       "bbox_count": 1,
       "class_distribution": {
-        "0": 1
+        "1": 1
       }
     },
     "test_swimming_swimming_test_00435.txt": {
