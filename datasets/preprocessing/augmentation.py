@@ -66,8 +66,7 @@ class DataAugmentation:
             
             # Random crop and resize
             A.RandomResizedCrop(
-                height=self.img_size[1],
-                width=self.img_size[0],
+                size=(self.img_size[1], self.img_size[0]),  # (height, width)
                 scale=(0.8, 1.0),  # Crop 80-100% of image
                 ratio=(0.9, 1.1),  # Maintain aspect ratio
                 p=0.3
