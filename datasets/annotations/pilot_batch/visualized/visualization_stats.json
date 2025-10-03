@@ -2,8 +2,8 @@
   "total_images": 248,
   "images_with_annotations": 122,
   "total_bboxes": 215,
-  "swimming_count": 215,
-  "drowning_count": 0,
+  "swimming_count": 141,
+  "drowning_count": 74,
   "processed_successfully": 248,
   "failed_images": []
 }
