@@ -1,0 +1,14 @@
+{
+  "total_images": 248,
+  "processed_images": 248,
+  "images_with_detections": 122,
+  "total_detections": 215,
+  "failed_images": 0,
+  "swimming_detections": 141,
+  "drowning_detections": 74,
+  "swimming_images": 175,
+  "drowning_images": 73,
+  "class_assignment_method": "filename_based",
+  "processing_time_seconds": 76.55991315841675,
+  "confidence_threshold": 0.3
+}
