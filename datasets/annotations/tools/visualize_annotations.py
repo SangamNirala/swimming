@@ -445,6 +445,7 @@ def create_sample_viewer():
         </div>
         """
     
+    # Add JavaScript and closing tags
     html_content += """
     </div>
 
@@ -478,11 +479,12 @@ def create_sample_viewer():
     </script>
 </body>
 </html>
-    """.format(
-        total_images=stats.get('total_images', 0),
-        images_with_annotations=stats.get('images_with_annotations', 0),
-        total_bboxes=stats.get('total_bboxes', 0)
-    )
+    """
+    
+    # Replace placeholders
+    html_content = html_content.replace('{total_images}', str(stats.get('total_images', 0)))
+    html_content = html_content.replace('{images_with_annotations}', str(stats.get('images_with_annotations', 0)))
+    html_content = html_content.replace('{total_bboxes}', str(stats.get('total_bboxes', 0)))
     
     # Save HTML file
     html_file = visualized_dir / "annotation_viewer.html"
