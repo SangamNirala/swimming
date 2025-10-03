@@ -2003,8 +2003,9 @@
   ],
   "annotation_progress": {
     "total": 248,
-    "completed": 0,
+    "completed": 248,
     "reviewed": 0,
-    "quality_approved": false
+    "quality_approved": false,
+    "completion_rate": 100.0
   }
 }
